@@ -50,7 +50,7 @@ The goal of this portfolio is to demonstrate the analytical reasoning and evalua
 
 ## Completed Case Studies
 
-- Case Study 01 – Interview Stress Advice Evaluation
+- Case Study 01 – https://github.com/yesheshwini/AI-Evaluator-Portfolio/blob/main/01_Response_Evaluation/case-study-01.md#case-study-01--evaluating-ai-responses-for-interview-stress-advice
 
 ## Learning Journey
 
