@@ -53,6 +53,7 @@ The goal of this portfolio is to demonstrate the analytical reasoning and evalua
 - Case Study 01 – 01_Response_Evaluation/case-study-01.md
 - Case Study 02 - 03_Factuality_Checks/case-study-02.md
 - Case study 03 - 02_Preference_Ranking/case-study-03.md
+- Case study 04 - 09_Evaluation_Rubrics/case-study-04.md
 
 ## Learning Journey
 
